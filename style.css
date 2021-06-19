@@ -25,3 +25,11 @@ body {
 .price-box.best {
   box-shadow: 0 10px 15px 0 #000;
 }
+
+.price-box .header {
+  background-color: #111;
+  color: #fff;
+  font-size: 24px;
+}
+
+
