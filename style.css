@@ -20,3 +20,8 @@ body {
   padding: 0;
   transition: 0.3x;
 }
+
+.price-box:hover,
+.price-box.best {
+  box-shadow: 0 10px 15px 0 #000;
+}
