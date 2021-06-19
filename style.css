@@ -37,3 +37,8 @@ body {
   border-bottom: 1px solid #eee;
   text-align: center;
 }
+
+.price-box .emph {
+  background-color: #f4f4f4;
+  font-size: 20px;
+}
